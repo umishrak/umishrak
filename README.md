@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utpal Kant Mishra
-- 👀 I’m interested in c++ and Blueprint 
+- 👀 I’m interested in Python, c++ and Blueprint for Unreal Engine
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
