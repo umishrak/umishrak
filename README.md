@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utpal Kant Mishra
-- 👀 I’m interested in C++, and Blueprint for Unreal Engine in Particular and Game Development in General
-- 🌱 I’m currently learning MERN Full Stack
+- 👀 I’m interested in C++ and Blueprint for Unreal Engine in Particular and Game Development in General
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Game Development and Full Stack Development
 - 📫 How to reach me ... Write me at umishrak@gmail.com
 
