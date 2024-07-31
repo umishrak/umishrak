@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Utpal Kant Mishra
-- 👀 I’m interested in Python, c++ and Blueprint for Unreal Engine
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C++, and Blueprint for Unreal Engine in Particular and Game Development in General
+- 🌱 I’m currently learning MERN Full Stack
+- 💞️ I’m looking to collaborate on Game Development and Full Stack Development
+- 📫 How to reach me ... Write me at umishrak@gmail.com
 
 <!---
 umishrak/umishrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
